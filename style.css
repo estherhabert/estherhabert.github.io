@@ -1,0 +1,133 @@
+    p {
+        color: black;
+        font-size: 25;
+        font-weight: bold
+    }
+    
+    h1 {font-weight: bold;
+        color: white;
+    }
+    
+    img {
+        width:100px;
+        height:100px;
+    }
+    h1:hover { 
+    background-color: black;
+    }
+
+    p:hover {
+    background-color: white;
+    }
+
+    body {
+  background: repeating-radial-gradient(black, white 10%, blue 15%);
+    }
+
+    h1 {
+    text-align: center;
+    }
+
+    p {
+    text-align: center;
+    border-style: solid;
+    border-bottom: thick dotted black;
+    }
+
+    h1 {
+    border-style: solid;
+    border-bottom: thick dotted white;
+    }
+
+    .center {
+    margin: auto;
+    width: 50%;
+    border: 3px dotted blue;
+    text-align:center;
+    }
+    
+    a {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    margin:auto;
+    width: 100px;
+    margin-top: 10px;
+    }
+
+
+    a:hover, a:active {
+    background-color: blue;
+    }
+    
+    a {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    margin:auto;
+    width: 100px;
+    margin-top: 20px;
+    }
+
+
+    a:hover, a:active {
+    background-color: blue;
+    }
+    
+        a {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    margin:auto;
+    width: 100px;
+    margin-top: 20px;
+    }
+
+
+    a:hover, a:active {
+    background-color: blue;
+    }
+    
+    a {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    margin:auto;
+    width: 100px;
+    margin-top: 20px;
+    }
+
+
+    a:hover, a:active {
+    background-color: blue;
+    }
+    
+    #pizza {
+        width:560px;
+        height:315px;
+        margin-left:210px;
+        }
+        
+    #icecream {
+        width:560px;
+        height:315px;
+        margin-left:400px;
+        }
+    
+    
